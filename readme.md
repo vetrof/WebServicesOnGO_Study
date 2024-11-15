@@ -4,3 +4,7 @@
 репозитории с доп информацией и описанием заданий
 https://github.com/vetrof/coursera-golang-webservices
 https://github.com/vetrof/go-coursera?tab=readme-ov-file
+https://github.com/vetrof/golang-web_services-mrg_course
+
+Программирование на Golang Василий Романов
+https://sphere.vk.company/materials/video/321/
