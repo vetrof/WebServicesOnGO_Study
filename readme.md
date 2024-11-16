@@ -8,3 +8,9 @@ https://github.com/vetrof/golang-web_services-mrg_course
 
 Программирование на Golang Василий Романов
 https://sphere.vk.company/materials/video/321/
+
+заметки по го
+https://gist.github.com/hrrmsn
+
+гитлаб василия
+https://gitlab.com/rvasily
